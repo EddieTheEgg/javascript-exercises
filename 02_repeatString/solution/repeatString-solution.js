@@ -7,4 +7,6 @@ const repeatString = function (word, times) {
   return string;
 };
 
+console.log(repeatString("hello", 3))
+
 module.exports = repeatString;
